@@ -2,6 +2,7 @@
 
 ## Project Members
 - Rafael Hermida Toledo
+- Sebastián Castro Obando
 
 ## Project Description
 
