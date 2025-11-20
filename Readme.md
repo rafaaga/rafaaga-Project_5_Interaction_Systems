@@ -57,7 +57,7 @@ Both layers are combined into a single stereo output that evolves with each game
 - ✅ **Synchronization between audio and visuals**: Both the soundscape and animation respond to the same data points (result, goals, and phase).  
 
 ## Video Demonstration
-*(To be added after final recording of the project.)*
+Video demo spoken on spanish [*here*](https://javerianacaliedu-my.sharepoint.com/:v:/g/personal/rafaelhermida_javerianacali_edu_co/IQDb_rjGKXwFSZjF3UQHCvoyAVXnnkV-MpjMRqvVTTEKvoI?e=ahfEmh)
 
 ## Course Context
 
